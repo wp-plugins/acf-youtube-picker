@@ -1,4 +1,4 @@
-=== ACF YouTube Picker ===
+﻿=== ACF YouTube Picker ===
 Contributors: Aires Gonçalves
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=airesvsg%40gmail%2ecom&lc=BR&item_name=Aires%20Goncalves&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
 Tags: acf, youtube, picker, custom field, search, simple, field, custom
@@ -15,8 +15,9 @@ Search and select videos on YouTube without leaving the page.
 
 = Field Types =
 This ACF field type is compatible with:
-* ACF 5
-* ACF 4
+
+ACF 5
+ACF 4
 
 == Installation ==
 1. Copy the `acf-youtubepicker` folder into your `wp-content/plugins` folder
@@ -29,5 +30,5 @@ This ACF field type is compatible with:
 
 == Frequently Asked Questions ==
 
-= How to Obtain the **API KEY**? =
+= How to Obtain the API KEY? =
 https://developers.google.com/youtube/v3/getting-started
