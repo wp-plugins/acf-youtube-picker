@@ -52,6 +52,7 @@ class acf_field_youtubepicker extends acf_field {
 		*/
 		
 		$this->defaults = array(
+			'api_key'         => 'AIzaSyAuHQVhEmD4m2AXL6TvADwZIxZjNogVRF0',
 			'multiple'        => false,
 			'channelType'     => 'any',
 			'order'           => 'relevance',
