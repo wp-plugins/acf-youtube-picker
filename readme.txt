@@ -35,5 +35,5 @@ https://developers.google.com/youtube/v3/getting-started
 
 == Changelog ==
 
-= 2.0.1 =
+= 2.1 =
 * added button for preview of videos
