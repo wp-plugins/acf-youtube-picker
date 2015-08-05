@@ -1,5 +1,5 @@
 ﻿=== ACF YouTube Picker ===
-Contributors: Aires Gonçalves
+Contributors: airesvsg
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=airesvsg%40gmail%2ecom&lc=BR&item_name=Aires%20Goncalves&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
 Tags: acf, youtube, picker, custom field, search, simple, field, custom
 Requires at least: 3.5.0
